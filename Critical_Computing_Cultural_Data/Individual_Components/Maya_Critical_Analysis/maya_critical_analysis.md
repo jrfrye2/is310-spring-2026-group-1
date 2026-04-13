@@ -1,6 +1,7 @@
 #### **Journal Article**
 
 Link to article: https://arxiv.org/abs/1607.03895
+
 APA citation: 
 Fu, L., Danescu-Niculescu-Mizil, C., & Lee, L. (2016). Tie-breaker: Using language models to quantify gender bias in sports journalism. *arXiv*. https://doi.org/10.48550/arXiv.1607.03895
 

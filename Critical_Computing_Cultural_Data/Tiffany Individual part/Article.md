@@ -1,7 +1,7 @@
 ## Part 1 (AI SUMMARY): ##
 
 ### AI Article Summary ###
-Authors: Johannes C. Eichstaedt et al.
+<li> Authors: Johannes C. Eichstaedt et al. </li>
 Title: The Moral Economy of Social Media
 Journal: Nature Human Behaviour
 Year: 2018

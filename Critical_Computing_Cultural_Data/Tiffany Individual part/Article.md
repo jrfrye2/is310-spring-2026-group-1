@@ -2,12 +2,12 @@
 
 ### AI Article Summary ###
 <li> Authors: Johannes C. Eichstaedt et al. </li>
-Title: The Moral Economy of Social Media
-Journal: Nature Human Behaviour
-Year: 2018
-DOI: https://doi.org/10.1038/s41562-018-0383-4
-Article Link: https://www.nature.com/articles/s41562-018-0383-4
-Code Repository: https://github.com/eichstaedt/moral-economy-social-media
+<li> Title: The Moral Economy of Social Media</li>
+<li> Journal: Nature Human Behaviour</li>
+<li> Year: 2018</li>
+<li> DOI: https://doi.org/10.1038/s41562-018-0383-4</li>
+<li> Article Link: https://www.nature.com/articles/s41562-018-0383-4</li>
+<li> Code Repository: https://github.com/eichstaedt/moral-economy-social-media</li>
 
 This article examines how moral and emotional language influences the spread of content on social media, with a particular focus on political discourse on Twitter. The authors aim to understand whether expressions of moral outrage—defined as the combination of moral and emotional language—play a measurable role in increasing user engagement and information diffusion. Drawing from theories in psychology and sociology, the study frames social media as a “moral economy,” where users are incentivized to produce content that aligns with group values and elicits strong emotional reactions. To investigate this, the researchers analyze large-scale datasets consisting of millions of tweets related to politically relevant topics, applying natural language processing (NLP) techniques to automatically detect moral and emotional language using established lexicons.
 
